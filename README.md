@@ -21,6 +21,12 @@ cargo build
 cargo run
 ```
 
+Run with less verbosity:
+
+```sh
+cargo run --quiet
+```
+
 ### Test
 
 ```sh
