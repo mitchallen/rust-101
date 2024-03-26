@@ -1,6 +1,8 @@
 rust-101
 ==
 
+[![Actions Status](https://github.com/mitchallen/rust-101/workflows/Rust/badge.svg)](https://github.com/mitchallen/rust-101/actions)
+
 Example Rust Hello, World! program
 
 ## References
