@@ -11,6 +11,12 @@ Example Rust Hello, World! program
 
 ## Usage
 
+### Make
+
+```sh
+make all
+```
+
 ### Build
 
 ```sh
